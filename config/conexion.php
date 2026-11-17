@@ -1,4 +1,5 @@
 <?php
+//Conexion con EthioDeploy
 class Conexion
 {
     private static $instance = null;
